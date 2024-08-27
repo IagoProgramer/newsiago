@@ -1,0 +1,81 @@
+body {
+		background:black;
+		
+
+}
+h1  { font-family:"Courier";
+      color:black;
+	  background: linear-gradient(to right,white,#28a4fc,blue,#28a4fc,white);
+	  text-align: center;
+	  padding: 30px;
+	  border-radius: 10px;
+	  
+	  
+	  
+	
+
+}
+.paragrafo-button { 
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	background: orange;
+	color:orange;
+	width: 250px;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+a { color: white;
+}
+
+.paragrafo-button:hover   { 
+		font-weight: bold;
+		background:#fac505;
+		color: red;
+		
+}           
+
+.paragrafo-desen {
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	color:white;
+	width: 250px;
+	padding: 10px;
+}
+.img {   text-align: center;
+        width:auto;
+        height:auto;
+		margin-left:700px;
+}
+.titulo {
+	text-align: center;
+	color:white;
+}
+.bgs  { font-family:"Courier";
+      color:black;
+	  background: linear-gradient(to right,black,orange,black);
+	  text-align: center;
+	  padding: 30px;
+	  border-radius: 10px;
+}
+.titulo2{ color: white;
+text-align:center;
+}
+.mago { text-align: center;
+color: white; 
+}
+.video { text-align: center;
+        width:900;
+        height: 800;
+		display:block;
+		margin: 0 auto;
+		
+}
+.audio { text-align: center;
+       
+		display:block;
+		margin: 0 auto;
+		
+}
